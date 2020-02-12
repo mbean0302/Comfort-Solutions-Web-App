@@ -1,0 +1,37 @@
+.table {
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: #383e45;
+}
+
+.announcement-container {
+  background-color: #c33c33;
+  margin: 125px auto;
+  border-radius: 20px;
+}
+
+.announcement-table {
+  background-color: #1579c4;
+  margin: 0;
+}
+
+#table-border {
+  border: 2px solid #c33c33;
+  /*height: 20.5rem;*/
+}
+
+.announcement-link {
+  color: #c33c33;
+}
+
+.announcement-link:hover {
+color: white;
+}
+
+.announcement-table thead,
+th,
+td {
+  border: 2px solid #383e45 !important;
+}
