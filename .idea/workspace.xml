@@ -4,7 +4,11 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="063440af-ad34-49ec-8d26-476cc2bf777e" name="Default Changelist" comment="" />
+    <list default="true" id="063440af-ad34-49ec-8d26-476cc2bf777e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_snippets.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_snippets.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,20 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -24,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XDsikMDsU8HZs3gKaQ7nezDTuu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,9 +52,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="MySQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dicee Challenge - Starting Files/Dicee Challenge - Starting Files" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -61,32 +85,6 @@
       <recent name="C:\Users\Mark\WebstormProjects\Comfort Solutions Dashboard\carouselImages\gasFurnaces" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.view_products.html">
-    <configuration name="announcements.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Comfort Solutions WebApp/announcements.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Comfort Solutions WebApp/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="test_snippets.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Comfort Solutions WebApp/test_snippets.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="training_links.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Comfort Solutions WebApp/training_links.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="view_products.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Comfort Solutions WebApp/view_products.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.view_products.html" />
-        <item itemvalue="JavaScript Debug.announcements.html" />
-        <item itemvalue="JavaScript Debug.training_links.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.test_snippets.html" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,6 +103,7 @@
       <workItem from="1581312259849" duration="18809000" />
       <workItem from="1581388437559" duration="7139000" />
       <workItem from="1581399841589" duration="76000" />
+      <workItem from="1581471501962" duration="833000" />
     </task>
     <servers />
   </component>
@@ -112,10 +111,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581181424780">
+    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581471906199">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1581181424780" />
+    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1581471906199" />
     <state x="961" y="437" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581388417350">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -216,9 +215,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="295" y="334" key="run.anything.popup/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1581384651001" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1580770803926">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1581471612749">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1580770803926" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1581471612749" />
   </component>
 </project>
