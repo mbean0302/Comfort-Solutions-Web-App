@@ -1,0 +1,2172 @@
+﻿{
+    "goodmanPrices": [
+        {
+            "modelNumber": "GSXC180241",
+            "price": "1715.00"
+        },
+        {
+            "modelNumber": "GSXC180361",
+            "price": "1904.00"
+        },
+        {
+            "modelNumber": "GSXC180481",
+            "price": "2246.00"
+        },
+        {
+            "modelNumber": "GSXC180601",
+            "price": "2637.00"
+        },
+        {
+            "modelNumber": "GSXC160241",
+            "price": "1312.00"
+        },
+        {
+            "modelNumber": "GSXC160361",
+            "price": "1474.00"
+        },
+        {
+            "modelNumber": "GSXC160481",
+            "price": "1735.00"
+        },
+        {
+            "modelNumber": "GSXC160601",
+            "price": "2045.00"
+        },
+        {
+            "modelNumber": "GSX160181",
+            "price": "1008.00"
+        },
+        {
+            "modelNumber": "GSX160241",
+            "price": "1045.00"
+        },
+        {
+            "modelNumber": "GSX160301",
+            "price": "1081.00"
+        },
+        {
+            "modelNumber": "GSX160311",
+            "price": "1167.00"
+        },
+        {
+            "modelNumber": "GSX160361",
+            "price": "1187.00"
+        },
+        {
+            "modelNumber": "GSX160371",
+            "price": "1280.00"
+        },
+        {
+            "modelNumber": "GSX160421",
+            "price": "1317.00"
+        },
+        {
+            "modelNumber": "GSX160481",
+            "price": "1428.00"
+        },
+        {
+            "modelNumber": "GSX160601",
+            "price": "1704.00"
+        },
+        {
+            "modelNumber": "GSX160611",
+            "price": "1704.00"
+        },
+        {
+            "modelNumber": "GSX16S181",
+            "price": "1008.00"
+        },
+        {
+            "modelNumber": "GSX16S241",
+            "price": "1045.00"
+        },
+        {
+            "modelNumber": "GSX16S301",
+            "price": "1081.00"
+        },
+        {
+            "modelNumber": "GSX16S361",
+            "price": "1187.00"
+        },
+        {
+            "modelNumber": "GSX16S421",
+            "price": "1317.00"
+        },
+        {
+            "modelNumber": "GSX16S481",
+            "price": "1428.00"
+        },
+        {
+            "modelNumber": "GSX140191",
+            "price": "791.00"
+        },
+        {
+            "modelNumber": "GSX140251",
+            "price": "858.00"
+        },
+        {
+            "modelNumber": "GSX140311",
+            "price": "896.00"
+        },
+        {
+            "modelNumber": "GSX140371",
+            "price": "1009.00"
+        },
+        {
+            "modelNumber": "GSX140431",
+            "price": "1148.00"
+        },
+        {
+            "modelNumber": "GSX140481",
+            "price": "1188.00"
+        },
+        {
+            "modelNumber": "GSX140601",
+            "price": "1393.00"
+        },
+        {
+            "modelNumber": "GSX140181",
+            "price": "755.00"
+        },
+        {
+            "modelNumber": "GSX140241",
+            "price": "817.00"
+        },
+        {
+            "modelNumber": "GSX140301",
+            "price": "853.00"
+        },
+        {
+            "modelNumber": "GSX140361",
+            "price": "960.00"
+        },
+        {
+            "modelNumber": "GSX140421",
+            "price": "1093.00"
+        },
+        {
+            "modelNumber": "GSX140481",
+            "price": "1188.00"
+        },
+        {
+            "modelNumber": "GSX140601",
+            "price": "1393.00"
+        },
+        {
+            "modelNumber": "GSX130181",
+            "price": "671.00"
+        },
+        {
+            "modelNumber": "GSX130241",
+            "price": "727.00"
+        },
+        {
+            "modelNumber": "GSX130301",
+            "price": "759.00"
+        },
+        {
+            "modelNumber": "GSX130361",
+            "price": "853.00"
+        },
+        {
+            "modelNumber": "GSX130421",
+            "price": "971.00"
+        },
+        {
+            "modelNumber": "GSX130481",
+            "price": "1056.00"
+        },
+        {
+            "modelNumber": "GSX130601",
+            "price": "1238.00"
+        },
+        {
+            "modelNumber": "GSX130611",
+            "price": "1305.00"
+        },
+        {
+            "modelNumber": "GSZC180241",
+            "price": "2105.00"
+        },
+        {
+            "modelNumber": "GSZC180361",
+            "price": "2339.00"
+        },
+        {
+            "modelNumber": "GSZC180481",
+            "price": "2811.00"
+        },
+        {
+            "modelNumber": "GSZC180601",
+            "price": "3197.00"
+        },
+        {
+            "modelNumber": "GSZC160241",
+            "price": "1733.00"
+        },
+        {
+            "modelNumber": "GSZC160361",
+            "price": "2074.00"
+        },
+        {
+            "modelNumber": "GSZC160481",
+            "price": "2474.00"
+        },
+        {
+            "modelNumber": "GSZC160601",
+            "price": "2866.00"
+        },
+        {
+            "modelNumber": "GSZ160181",
+            "price": "1255.00"
+        },
+        {
+            "modelNumber": "GSZ160241",
+            "price": "1296.00"
+        },
+        {
+            "modelNumber": "GSZ160301",
+            "price": "1454.00"
+        },
+        {
+            "modelNumber": "GSZ160361",
+            "price": "1595.00"
+        },
+        {
+            "modelNumber": "GSZ160421",
+            "price": "1732.00"
+        },
+        {
+            "modelNumber": "GSZ160481",
+            "price": "1900.00"
+        },
+        {
+            "modelNumber": "GSZ160601",
+            "price": "2266.00"
+        },
+        {
+            "modelNumber": "GSZ140181",
+            "price": "1055.00"
+        },
+        {
+            "modelNumber": "GSZ140191",
+            "price": "1092.00"
+        },
+        {
+            "modelNumber": "GSZ140241",
+            "price": "1089.00"
+        },
+        {
+            "modelNumber": "GSZ140251",
+            "price": "1127.00"
+        },
+        {
+            "modelNumber": "GSZ140301",
+            "price": "1220.00"
+        },
+        {
+            "modelNumber": "GSZ140311",
+            "price": "1265.00"
+        },
+        {
+            "modelNumber": "GSZ140361",
+            "price": "1338.00"
+        },
+        {
+            "modelNumber": "GSZ140371",
+            "price": "1386.00"
+        },
+        {
+            "modelNumber": "GSZ140421",
+            "price": "1454.00"
+        },
+        {
+            "modelNumber": "GSZ140481",
+            "price": "1595.00"
+        },
+        {
+            "modelNumber": "GSZ140491",
+            "price": "1693.00"
+        },
+        {
+            "modelNumber": "GSZ140601",
+            "price": "1904.00"
+        },
+        {
+            "modelNumber": "GMVM970603BN",
+            "price": "1376.00"
+        },
+        {
+            "modelNumber": "GMVM970803BN",
+            "price": "1585.00"
+        },
+        {
+            "modelNumber": "GMVM970804CN",
+            "price": "1607.00"
+        },
+        {
+            "modelNumber": "GMVM971005CN",
+            "price": "1737.00"
+        },
+        {
+            "modelNumber": "GMVM971205DN",
+            "price": "1870.00"
+        },
+        {
+            "modelNumber": "GCVM970603BN",
+            "price": "1496.00"
+        },
+        {
+            "modelNumber": "GCVM970803BN",
+            "price": "1708.00"
+        },
+        {
+            "modelNumber": "GCVM970804CN",
+            "price": "1726.00"
+        },
+        {
+            "modelNumber": "GCVM971005CN",
+            "price": "1802.00"
+        },
+        {
+            "modelNumber": "GMVC960403BN",
+            "price": "1102.00"
+        },
+        {
+            "modelNumber": "GMVC960603BN",
+            "price": "1144.00"
+        },
+        {
+            "modelNumber": "GMVC960803BN",
+            "price": "1378.00"
+        },
+        {
+            "modelNumber": "GMVC960804CN",
+            "price": "1394.00"
+        },
+        {
+            "modelNumber": "GMVC961005CN",
+            "price": "1523.00"
+        },
+        {
+            "modelNumber": "GMVC961005DN",
+            "price": "1578.00"
+        },
+        {
+            "modelNumber": "GMVC961205DN",
+            "price": "1585.00"
+        },
+        {
+            "modelNumber": "GCEC960403BN",
+            "price": "940.00"
+        },
+        {
+            "modelNumber": "GCEC960603BN",
+            "price": "1003.00"
+        },
+        {
+            "modelNumber": "GCEC960803BN",
+            "price": "1174.00"
+        },
+        {
+            "modelNumber": "GCEC961005CN",
+            "price": "1219.00"
+        },
+        {
+            "modelNumber": "GCVC960403BN",
+            "price": "1230.00"
+        },
+        {
+            "modelNumber": "GCVC960603BN",
+            "price": "1272.00"
+        },
+        {
+            "modelNumber": "GCVC960804CN",
+            "price": "1481.00"
+        },
+        {
+            "modelNumber": "GCVC961005CN",
+            "price": "1621.00"
+        },
+        {
+            "modelNumber": "GCVC961205DN",
+            "price": "1735.00"
+        },
+        {
+            "modelNumber": "GMEC960303AN",
+            "price": "814.00"
+        },
+        {
+            "modelNumber": "GMEC960302BN",
+            "price": "855.00"
+        },
+        {
+            "modelNumber": "GMEC960403AN",
+            "price": "844.00"
+        },
+        {
+            "modelNumber": "GMEC960402BN",
+            "price": "886.00"
+        },
+        {
+            "modelNumber": "GMEC960603AN",
+            "price": "918.00"
+        },
+        {
+            "modelNumber": "GMEC960603BN",
+            "price": "926.00"
+        },
+        {
+            "modelNumber": "GMEC960803BN",
+            "price": "1075.00"
+        },
+        {
+            "modelNumber": "GMEC960804CN",
+            "price": "1110.00"
+        },
+        {
+            "modelNumber": "GMEC961004CN",
+            "price": "1141.00"
+        },
+        {
+            "modelNumber": "GMEC961005CN",
+            "price": "1180.00"
+        },
+        {
+            "modelNumber": "GMEC961205DN",
+            "price": "1211.00"
+        },
+        {
+            "modelNumber": "GMSS960403AN",
+            "price": "720.00"
+        },
+        {
+            "modelNumber": "GMSS960402BN",
+            "price": "756.00"
+        },
+        {
+            "modelNumber": "GMSS960603BN",
+            "price": "785.00"
+        },
+        {
+            "modelNumber": "GMSS960803BN",
+            "price": "856.00"
+        },
+        {
+            "modelNumber": "GMSS960804CN",
+            "price": "911.00"
+        },
+        {
+            "modelNumber": "GMSS960805CN",
+            "price": "958.00"
+        },
+        {
+            "modelNumber": "GMSS961005CN",
+            "price": "1022.00"
+        },
+        {
+            "modelNumber": "GMSS961205DN",
+            "price": "1084.00"
+        },
+        {
+            "modelNumber": "GCSS960402BN",
+            "price": "780.00"
+        },
+        {
+            "modelNumber": "GCSS960603BN",
+            "price": "808.00"
+        },
+        {
+            "modelNumber": "GCSS960804CN",
+            "price": "931.00"
+        },
+        {
+            "modelNumber": "GCSS961005CN",
+            "price": "1055.00"
+        },
+        {
+            "modelNumber": "GCSS961205DN",
+            "price": "1167.00"
+        },
+        {
+            "modelNumber": "GCSS920402BN",
+            "price": "694.00"
+        },
+        {
+            "modelNumber": "GCSS920603BN",
+            "price": "722.00"
+        },
+        {
+            "modelNumber": "GCSS920804CN",
+            "price": "837.00"
+        },
+        {
+            "modelNumber": "GCSS921005CN",
+            "price": "935.00"
+        },
+        {
+            "modelNumber": "GMSS920403AN",
+            "price": "629.00"
+        },
+        {
+            "modelNumber": "GMSS920402BN",
+            "price": "659.00"
+        },
+        {
+            "modelNumber": "GMSS920603BN",
+            "price": "686.00"
+        },
+        {
+            "modelNumber": "GMSS920803BN",
+            "price": "753.00"
+        },
+        {
+            "modelNumber": "GMSS920804CN",
+            "price": "795.00"
+        },
+        {
+            "modelNumber": "GMSS920805CN",
+            "price": "836.00"
+        },
+        {
+            "modelNumber": "GMSS921004CN",
+            "price": "882.00"
+        },
+        {
+            "modelNumber": "GMSS921005CN",
+            "price": "891.00"
+        },
+        {
+            "modelNumber": "GMSS921205DN",
+            "price": "950.00"
+        },
+        {
+            "modelNumber": "GMVC80603BN",
+            "price": "896.00"
+        },
+        {
+            "modelNumber": "GMVC80603BX",
+            "price": "896.00"
+        },
+        {
+            "modelNumber": "GMVC80604BN",
+            "price": "982.00"
+        },
+        {
+            "modelNumber": "GMVC80604BX",
+            "price": "982.00"
+        },
+        {
+            "modelNumber": "GMVC80803BN",
+            "price": "964.00"
+        },
+        {
+            "modelNumber": "GMVC80803BX",
+            "price": "964.00"
+        },
+        {
+            "modelNumber": "GMVC80804CN",
+            "price": "991.00"
+        },
+        {
+            "modelNumber": "GMVC80804CX",
+            "price": "991.00"
+        },
+        {
+            "modelNumber": "GMVC80805CN",
+            "price": "1050.00"
+        },
+        {
+            "modelNumber": "GMVC80805CX",
+            "price": "1050.00"
+        },
+        {
+            "modelNumber": "GMVC80805DN",
+            "price": "1081.00"
+        },
+        {
+            "modelNumber": "GMVC80805DX",
+            "price": "1081.00"
+        },
+        {
+            "modelNumber": "GMVC81005CN",
+            "price": "1112.00"
+        },
+        {
+            "modelNumber": "GMVC81005CX",
+            "price": "1112.00"
+        },
+        {
+            "modelNumber": "GCVC80603BX",
+            "price": "941.00"
+        },
+        {
+            "modelNumber": "GCVC80803BX",
+            "price": "1012.00"
+        },
+        {
+            "modelNumber": "GCVC80805CX",
+            "price": "1102.00"
+        },
+        {
+            "modelNumber": "GCVC81005CX",
+            "price": "1169.00"
+        },
+        {
+            "modelNumber": "GME80603BN",
+            "price": "772.00"
+        },
+        {
+            "modelNumber": "GME80805CN",
+            "price": "840.00"
+        },
+        {
+            "modelNumber": "GME81005CN",
+            "price": "886.00"
+        },
+        {
+            "modelNumber": "GME80603BX",
+            "price": "772.00"
+        },
+        {
+            "modelNumber": "GME80805CX",
+            "price": "840.00"
+        },
+        {
+            "modelNumber": "GME80805DX",
+            "price": "840.00"
+        },
+        {
+            "modelNumber": "GME81005CX",
+            "price": "886.00"
+        },
+        {
+            "modelNumber": "GMH80403AN",
+            "price": "475.00"
+        },
+        {
+            "modelNumber": "GMH80603AN",
+            "price": "508.00"
+        },
+        {
+            "modelNumber": "GMH80604BN",
+            "price": "520.00"
+        },
+        {
+            "modelNumber": "GMH80803BN",
+            "price": "540.00"
+        },
+        {
+            "modelNumber": "GMH80804BN",
+            "price": "565.00"
+        },
+        {
+            "modelNumber": "GMH80805CN",
+            "price": "588.00"
+        },
+        {
+            "modelNumber": "GMH81005CN",
+            "price": "625.00"
+        },
+        {
+            "modelNumber": "GMH81205DN",
+            "price": "722.00"
+        },
+        {
+            "modelNumber": "GMH81405DN",
+            "price": "672.00"
+        },
+        {
+            "modelNumber": "GMH80403AX",
+            "price": "480.00"
+        },
+        {
+            "modelNumber": "GMH80603AX",
+            "price": "511.00"
+        },
+        {
+            "modelNumber": "GMH80604BX",
+            "price": "524.00"
+        },
+        {
+            "modelNumber": "GMH80803BX",
+            "price": "540.00"
+        },
+        {
+            "modelNumber": "GMH80804BX",
+            "price": "571.00"
+        },
+        {
+            "modelNumber": "GMH80805CX",
+            "price": "600.00"
+        },
+        {
+            "modelNumber": "GMH81005CX",
+            "price": "657.00"
+        },
+        {
+            "modelNumber": "GMH81205DX",
+            "price": "731.00"
+        },
+        {
+            "modelNumber": "GDH80403AN",
+            "price": "480.00"
+        },
+        {
+            "modelNumber": "GDH80603AN",
+            "price": "510.00"
+        },
+        {
+            "modelNumber": "GDH80804BN",
+            "price": "594.00"
+        },
+        {
+            "modelNumber": "GDH81005CN",
+            "price": "734.00"
+        },
+        {
+            "modelNumber": "GDH80403AX",
+            "price": "480.00"
+        },
+        {
+            "modelNumber": "GDH80603AX",
+            "price": "510.00"
+        },
+        {
+            "modelNumber": "GDH80804BX",
+            "price": "594.00"
+        },
+        {
+            "modelNumber": "GDH81005CX",
+            "price": "734.00"
+        },
+        {
+            "modelNumber": "GMS80403AN",
+            "price": "439.00"
+        },
+        {
+            "modelNumber": "GMS80603AN",
+            "price": "470.00"
+        },
+        {
+            "modelNumber": "GMS80604BN",
+            "price": "478.00"
+        },
+        {
+            "modelNumber": "GMS80804BN",
+            "price": "520.00"
+        },
+        {
+            "modelNumber": "GMS80805CN",
+            "price": "543.00"
+        },
+        {
+            "modelNumber": "GMS81005CN",
+            "price": "580.00"
+        },
+        {
+            "modelNumber": "GMS81205DN",
+            "price": "670.00"
+        },
+        {
+            "modelNumber": "GMS81405DN",
+            "price": "624.00"
+        },
+        {
+            "modelNumber": "GMS80403AX",
+            "price": "444.00"
+        },
+        {
+            "modelNumber": "GMS80603AX",
+            "price": "472.00"
+        },
+        {
+            "modelNumber": "GMS80604BX",
+            "price": "484.00"
+        },
+        {
+            "modelNumber": "GMS80804BX",
+            "price": "528.00"
+        },
+        {
+            "modelNumber": "GMS80805CX",
+            "price": "555.00"
+        },
+        {
+            "modelNumber": "GMS81005CX",
+            "price": "610.00"
+        },
+        {
+            "modelNumber": "GMS81205DX",
+            "price": "703.00"
+        },
+        {
+            "modelNumber": "GDS80403AN",
+            "price": "444.00"
+        },
+        {
+            "modelNumber": "GDS80603AN",
+            "price": "472.00"
+        },
+        {
+            "modelNumber": "GDS80804BN",
+            "price": "548.00"
+        },
+        {
+            "modelNumber": "GDS81005CN",
+            "price": "617.00"
+        },
+        {
+            "modelNumber": "GDS80403AX",
+            "price": "444.00"
+        },
+        {
+            "modelNumber": "GDS80603AX",
+            "price": "472.00"
+        },
+        {
+            "modelNumber": "GDS80804BX",
+            "price": "548.00"
+        },
+        {
+            "modelNumber": "GDS81005CX",
+            "price": "617.00"
+        },
+        {
+            "modelNumber": "GHS80403AN",
+            "price": "457.00"
+        },
+        {
+            "modelNumber": "GHS80604BN",
+            "price": "502.00"
+        },
+        {
+            "modelNumber": "GHS80805CN",
+            "price": "570.00"
+        },
+        {
+            "modelNumber": "GHS80403AX",
+            "price": "457.00"
+        },
+        {
+            "modelNumber": "GHS80604BX",
+            "price": "502.00"
+        },
+        {
+            "modelNumber": "GHS80805CX",
+            "price": "570.00"
+        },
+        {
+            "modelNumber": "AVPEC25B14",
+            "price": "1031.00"
+        },
+        {
+            "modelNumber": "AVPEC37C14",
+            "price": "1150.00"
+        },
+        {
+            "modelNumber": "AVPEC59D14",
+            "price": "1212.00"
+        },
+        {
+            "modelNumber": "AVPEC61D14",
+            "price": "1272.00"
+        },
+        {
+            "modelNumber": "AVPVC24C14",
+            "price": "884.00"
+        },
+        {
+            "modelNumber": "AVPVC36D14",
+            "price": "1034.00"
+        },
+        {
+            "modelNumber": "AVPVC48D14",
+            "price": "1100.00"
+        },
+        {
+            "modelNumber": "AVPVC60D14",
+            "price": "1138.00"
+        },
+        {
+            "modelNumber": "AVPEC61D14",
+            "price": "1272.00"
+        },
+        {
+            "modelNumber": "AVPTC25B14",
+            "price": "838.00"
+        },
+        {
+            "modelNumber": "AVPTC29B14",
+            "price": "924.00"
+        },
+        {
+            "modelNumber": "AVPTC31C14",
+            "price": "933.00"
+        },
+        {
+            "modelNumber": "AVPTC33C14",
+            "price": "913.00"
+        },
+        {
+            "modelNumber": "AVPTC35B14",
+            "price": "873.00"
+        },
+        {
+            "modelNumber": "AVPTC37B14",
+            "price": "955.00"
+        },
+        {
+            "modelNumber": "AVPTC37C14",
+            "price": "977.00"
+        },
+        {
+            "modelNumber": "AVPTC37D14",
+            "price": "997.00"
+        },
+        {
+            "modelNumber": "AVPTC39C14",
+            "price": "957.00"
+        },
+        {
+            "modelNumber": "AVPTC49C14",
+            "price": "1097.00"
+        },
+        {
+            "modelNumber": "AVPTC49D14",
+            "price": "1134.00"
+        },
+        {
+            "modelNumber": "AVPTC59C14",
+            "price": "1128.00"
+        },
+        {
+            "modelNumber": "AVPTC59D14",
+            "price": "1137.00"
+        },
+        {
+            "modelNumber": "AVPTC61D14",
+            "price": "1152.00"
+        },
+        {
+            "modelNumber": "AVPTC24B14",
+            "price": "798.00"
+        },
+        {
+            "modelNumber": "AVPTC30C14",
+            "price": "886.00"
+        },
+        {
+            "modelNumber": "AVPTC36C14",
+            "price": "930.00"
+        },
+        {
+            "modelNumber": "AVPTC42D14",
+            "price": "1041.00"
+        },
+        {
+            "modelNumber": "AVPTC48C14",
+            "price": "1065.00"
+        },
+        {
+            "modelNumber": "AVPTC48D14",
+            "price": "1078.00"
+        },
+        {
+            "modelNumber": "AVPTC60D14",
+            "price": "1103.00"
+        },
+        {
+            "modelNumber": "ASPT24B14",
+            "price": "703.00"
+        },
+        {
+            "modelNumber": "ASPT25B14",
+            "price": "725.00"
+        },
+        {
+            "modelNumber": "ASPT29B14",
+            "price": "785.00"
+        },
+        {
+            "modelNumber": "ASPT30C14",
+            "price": "763.00"
+        },
+        {
+            "modelNumber": "ASPT33C14",
+            "price": "787.00"
+        },
+        {
+            "modelNumber": "ASPT35B14",
+            "price": "755.00"
+        },
+        {
+            "modelNumber": "ASPT36C14",
+            "price": "801.00"
+        },
+        {
+            "modelNumber": "ASPT37B14",
+            "price": "810.00"
+        },
+        {
+            "modelNumber": "ASPT37C14",
+            "price": "826.00"
+        },
+        {
+            "modelNumber": "ASPT39C14",
+            "price": "826.00"
+        },
+        {
+            "modelNumber": "ASPT42C14",
+            "price": "823.00"
+        },
+        {
+            "modelNumber": "ASPT42D14",
+            "price": "829.00"
+        },
+        {
+            "modelNumber": "ASPT47C14",
+            "price": "861.00"
+        },
+        {
+            "modelNumber": "ASPT47D14",
+            "price": "979.00"
+        },
+        {
+            "modelNumber": "ASPT48C14",
+            "price": "919.00"
+        },
+        {
+            "modelNumber": "ASPT48D14",
+            "price": "957.00"
+        },
+        {
+            "modelNumber": "ASPT49C14",
+            "price": "947.00"
+        },
+        {
+            "modelNumber": "ASPT49D14",
+            "price": "996.00"
+        },
+        {
+            "modelNumber": "ASPT59C14",
+            "price": "956.00"
+        },
+        {
+            "modelNumber": "ASPT60D14",
+            "price": "968.00"
+        },
+        {
+            "modelNumber": "ASPT61D14",
+            "price": "1003.00"
+        },
+        {
+            "modelNumber": "ARUF18B14",
+            "price": "411.00"
+        },
+        {
+            "modelNumber": "ARUF24B14",
+            "price": "421.00"
+        },
+        {
+            "modelNumber": "ARUF25B14",
+            "price": "492.00"
+        },
+        {
+            "modelNumber": "ARUF29B14",
+            "price": "510.00"
+        },
+        {
+            "modelNumber": "ARUF30B14",
+            "price": "483.00"
+        },
+        {
+            "modelNumber": "ARUF30C14",
+            "price": "527.00"
+        },
+        {
+            "modelNumber": "ARUF31B14",
+            "price": "545.00"
+        },
+        {
+            "modelNumber": "ARUF36C14",
+            "price": "563.00"
+        },
+        {
+            "modelNumber": "ARUF37C14",
+            "price": "597.00"
+        },
+        {
+            "modelNumber": "ARUF37D14",
+            "price": "618.00"
+        },
+        {
+            "modelNumber": "ARUF42C14",
+            "price": "582.00"
+        },
+        {
+            "modelNumber": "ARUF43C14",
+            "price": "639.00"
+        },
+        {
+            "modelNumber": "ARUF43D14",
+            "price": "687.00"
+        },
+        {
+            "modelNumber": "ARUF47D14",
+            "price": "748.00"
+        },
+        {
+            "modelNumber": "ARUF48D14",
+            "price": "723.00"
+        },
+        {
+            "modelNumber": "ARUF49C14",
+            "price": "772.00"
+        },
+        {
+            "modelNumber": "ARUF49D14",
+            "price": "789.00"
+        },
+        {
+            "modelNumber": "ARUF60D14",
+            "price": "764.00"
+        },
+        {
+            "modelNumber": "ARUF61D14",
+            "price": "818.00"
+        },
+        {
+            "modelNumber": "AWUT310516",
+            "price": "540.00"
+        },
+        {
+            "modelNumber": "AWUT310816",
+            "price": "550.00"
+        },
+        {
+            "modelNumber": "AWUT321016",
+            "price": "594.00"
+        },
+        {
+            "modelNumber": "AWUT370516",
+            "price": "550.00"
+        },
+        {
+            "modelNumber": "AWUT370816",
+            "price": "562.00"
+        },
+        {
+            "modelNumber": "AWUT371016",
+            "price": "568.00"
+        },
+        {
+            "modelNumber": "AWUF180316",
+            "price": "313.00"
+        },
+        {
+            "modelNumber": "AWUF180516",
+            "price": "313.00"
+        },
+        {
+            "modelNumber": "AWUF180816",
+            "price": "321.00"
+        },
+        {
+            "modelNumber": "AWUF190316",
+            "price": "390.00"
+        },
+        {
+            "modelNumber": "AWUF190516",
+            "price": "394.00"
+        },
+        {
+            "modelNumber": "AWUF190816",
+            "price": "410.00"
+        },
+        {
+            "modelNumber": "AWUF240316",
+            "price": "318.00"
+        },
+        {
+            "modelNumber": "AWUF240516",
+            "price": "318.00"
+        },
+        {
+            "modelNumber": "AWUF240816",
+            "price": "338.00"
+        },
+        {
+            "modelNumber": "AWUF241016",
+            "price": "339.00"
+        },
+        {
+            "modelNumber": "AWUF250316",
+            "price": "407.00"
+        },
+        {
+            "modelNumber": "AWUF250516",
+            "price": "413.00"
+        },
+        {
+            "modelNumber": "AWUF250816",
+            "price": "419.00"
+        },
+        {
+            "modelNumber": "AWUF251016",
+            "price": "425.00"
+        },
+        {
+            "modelNumber": "AWUF300316",
+            "price": "370.00"
+        },
+        {
+            "modelNumber": "AWUF300516",
+            "price": "370.00"
+        },
+        {
+            "modelNumber": "AWUF300816",
+            "price": "389.00"
+        },
+        {
+            "modelNumber": "AWUF301016",
+            "price": "390.00"
+        },
+        {
+            "modelNumber": "AWUF310516",
+            "price": "492.00"
+        },
+        {
+            "modelNumber": "AWUF310816",
+            "price": "504.00"
+        },
+        {
+            "modelNumber": "AWUF321016",
+            "price": "548.00"
+        },
+        {
+            "modelNumber": "AWUF360516",
+            "price": "376.00"
+        },
+        {
+            "modelNumber": "AWUF360816",
+            "price": "396.00"
+        },
+        {
+            "modelNumber": "AWUF361016",
+            "price": "399.00"
+        },
+        {
+            "modelNumber": "AWUF370516",
+            "price": "504.00"
+        },
+        {
+            "modelNumber": "AWUF370816",
+            "price": "515.00"
+        },
+        {
+            "modelNumber": "AWUF371016",
+            "price": "523.00"
+        },
+        {
+            "modelNumber": "ACNF180016",
+            "price": "303.00"
+        },
+        {
+            "modelNumber": "ACNF180516",
+            "price": "336.00"
+        },
+        {
+            "modelNumber": "ACNF180616",
+            "price": "344.00"
+        },
+        {
+            "modelNumber": "ACNF180816",
+            "price": "349.00"
+        },
+        {
+            "modelNumber": "ACNF240016",
+            "price": "354.00"
+        },
+        {
+            "modelNumber": "ACNF240516",
+            "price": "384.00"
+        },
+        {
+            "modelNumber": "ACNF240616",
+            "price": "395.00"
+        },
+        {
+            "modelNumber": "ACNF240816",
+            "price": "396.00"
+        },
+        {
+            "modelNumber": "ACNF241016",
+            "price": "399.00"
+        },
+        {
+            "modelNumber": "ACNF250016",
+            "price": "376.00"
+        },
+        {
+            "modelNumber": "ACNF250516",
+            "price": "419.00"
+        },
+        {
+            "modelNumber": "ACNF250616",
+            "price": "432.00"
+        },
+        {
+            "modelNumber": "ACNF250816",
+            "price": "434.00"
+        },
+        {
+            "modelNumber": "ACNF251016",
+            "price": "436.00"
+        },
+        {
+            "modelNumber": "ACNF300016",
+            "price": "372.00"
+        },
+        {
+            "modelNumber": "ACNF300516",
+            "price": "399.00"
+        },
+        {
+            "modelNumber": "ACNF300616",
+            "price": "414.00"
+        },
+        {
+            "modelNumber": "ACNF300816",
+            "price": "425.00"
+        },
+        {
+            "modelNumber": "ACNF301016",
+            "price": "428.00"
+        },
+        {
+            "modelNumber": "ACNF310016",
+            "price": "395.00"
+        },
+        {
+            "modelNumber": "ACNF310516",
+            "price": "436.00"
+        },
+        {
+            "modelNumber": "ACNF310616",
+            "price": "450.00"
+        },
+        {
+            "modelNumber": "ACNF310816",
+            "price": "463.00"
+        },
+        {
+            "modelNumber": "ACNF311016",
+            "price": "467.00"
+        },
+        {
+            "modelNumber": "MBVC1200AA-1",
+            "price": "512.00"
+        },
+        {
+            "modelNumber": "MBVC1600AA-1",
+            "price": "550.00"
+        },
+        {
+            "modelNumber": "MBVC2000AA-1",
+            "price": "572.00"
+        },
+        {
+            "modelNumber": "MBR0800AA-1",
+            "price": "224.00"
+        },
+        {
+            "modelNumber": "MBR1200AA-1",
+            "price": "237.00"
+        },
+        {
+            "modelNumber": "MBR1600AA-1",
+            "price": "260.00"
+        },
+        {
+            "modelNumber": "MBR2000AA-1",
+            "price": "272.00"
+        },
+        {
+            "modelNumber": "HKR-03",
+            "price": "41.00"
+        },
+        {
+            "modelNumber": "HKR-05",
+            "price": "43.00"
+        },
+        {
+            "modelNumber": "HKR-06",
+            "price": "52.00"
+        },
+        {
+            "modelNumber": "HKR-08",
+            "price": "54.00"
+        },
+        {
+            "modelNumber": "HKR-10",
+            "price": "55.00"
+        },
+        {
+            "modelNumber": "HKR-05C",
+            "price": "52.00"
+        },
+        {
+            "modelNumber": "HKR-08C",
+            "price": "67.00"
+        },
+        {
+            "modelNumber": "HKR-10C",
+            "price": "69.00"
+        },
+        {
+            "modelNumber": "HKSX03XC",
+            "price": "48.00"
+        },
+        {
+            "modelNumber": "HKSX05XC",
+            "price": "50.00"
+        },
+        {
+            "modelNumber": "HKSX06XC",
+            "price": "57.00"
+        },
+        {
+            "modelNumber": "HKSX08XC",
+            "price": "61.00"
+        },
+        {
+            "modelNumber": "HKSX10XC",
+            "price": "63.00"
+        },
+        {
+            "modelNumber": "HKSC05XC",
+            "price": "57.00"
+        },
+        {
+            "modelNumber": "HKSC08XC",
+            "price": "73.00"
+        },
+        {
+            "modelNumber": "HKSC10XC",
+            "price": "75.00"
+        },
+        {
+            "modelNumber": "HKSC15XA",
+            "price": "129.00"
+        },
+        {
+            "modelNumber": "HKSC15XB",
+            "price": "129.00"
+        },
+        {
+            "modelNumber": "HKSC15XF",
+            "price": "189.00"
+        },
+        {
+            "modelNumber": "HKSC19CA",
+            "price": "139.00"
+        },
+        {
+            "modelNumber": "HKSC19CB",
+            "price": "132.00"
+        },
+        {
+            "modelNumber": "HKSC20DA",
+            "price": "139.00"
+        },
+        {
+            "modelNumber": "HKSC20DB",
+            "price": "132.00"
+        },
+        {
+            "modelNumber": "HKSC25DC",
+            "price": "230.00"
+        },
+        {
+            "modelNumber": "HKA-15C",
+            "price": "120.00"
+        },
+        {
+            "modelNumber": "HKA-20C",
+            "price": "126.00"
+        },
+        {
+            "modelNumber": "HKP-05C",
+            "price": "52.00"
+        },
+        {
+            "modelNumber": "HKP-10C",
+            "price": "69.00"
+        },
+        {
+            "modelNumber": "HKP-15C",
+            "price": "120.00"
+        },
+        {
+            "modelNumber": "HKP-20C",
+            "price": "126.00"
+        },
+        {
+            "modelNumber": "TXV-V24",
+            "price": "110.00"
+        },
+        {
+            "modelNumber": "TXV-V36",
+            "price": "110.00"
+        },
+        {
+            "modelNumber": "TXV-V48",
+            "price": "110.00"
+        },
+        {
+            "modelNumber": "TXV-V60",
+            "price": "110.00"
+        },
+        {
+            "modelNumber": "TXV-30",
+            "price": "59.00"
+        },
+        {
+            "modelNumber": "TXV-42",
+            "price": "59.00"
+        },
+        {
+            "modelNumber": "TXV-48",
+            "price": "59.00"
+        },
+        {
+            "modelNumber": "TXV-60",
+            "price": "59.00"
+        },
+        {
+            "modelNumber": "CAPT3131B4",
+            "price": "336.00"
+        },
+        {
+            "modelNumber": "CAPT3131C4",
+            "price": "349.00"
+        },
+        {
+            "modelNumber": "CAPT3743C4",
+            "price": "461.00"
+        },
+        {
+            "modelNumber": "CAPT3743D4",
+            "price": "474.00"
+        },
+        {
+            "modelNumber": "CAPT4961C4",
+            "price": "526.00"
+        },
+        {
+            "modelNumber": "CAPT4961D4",
+            "price": "523.00"
+        },
+        {
+            "modelNumber": "CAPF1824A6",
+            "price": "212.00"
+        },
+        {
+            "modelNumber": "CAPF1824B6",
+            "price": "216.00"
+        },
+        {
+            "modelNumber": "CAPF1824C6",
+            "price": "246.00"
+        },
+        {
+            "modelNumber": "CAPF3030A6",
+            "price": "262.00"
+        },
+        {
+            "modelNumber": "CAPF3030B6",
+            "price": "268.00"
+        },
+        {
+            "modelNumber": "CAPF3030C6",
+            "price": "271.00"
+        },
+        {
+            "modelNumber": "CAPF3030D6",
+            "price": "282.00"
+        },
+        {
+            "modelNumber": "CAPF3131B6",
+            "price": "259.00"
+        },
+        {
+            "modelNumber": "CAPF3131C6",
+            "price": "268.00"
+        },
+        {
+            "modelNumber": "CAPF3137B6",
+            "price": "387.00"
+        },
+        {
+            "modelNumber": "CAPF3636A6",
+            "price": "288.00"
+        },
+        {
+            "modelNumber": "CAPF3636B6",
+            "price": "298.00"
+        },
+        {
+            "modelNumber": "CAPF3636C6",
+            "price": "312.00"
+        },
+        {
+            "modelNumber": "CAPF3636D6",
+            "price": "322.00"
+        },
+        {
+            "modelNumber": "CAPF3642C6",
+            "price": "357.00"
+        },
+        {
+            "modelNumber": "CAPF3642D6",
+            "price": "363.00"
+        },
+        {
+            "modelNumber": "CAPF3743C6",
+            "price": "389.00"
+        },
+        {
+            "modelNumber": "CAPF3743D6",
+            "price": "394.00"
+        },
+        {
+            "modelNumber": "CAPF4860C6",
+            "price": "419.00"
+        },
+        {
+            "modelNumber": "CAPF4860D6",
+            "price": "416.00"
+        },
+        {
+            "modelNumber": "CAPF4961C6",
+            "price": "462.00"
+        },
+        {
+            "modelNumber": "CAPF4961D6",
+            "price": "449.00"
+        },
+        {
+            "modelNumber": "CAPFA1818A6",
+            "price": "281.00"
+        },
+        {
+            "modelNumber": "CAPFA1818B6",
+            "price": "292.00"
+        },
+        {
+            "modelNumber": "CHPF1824A6",
+            "price": "219.00"
+        },
+        {
+            "modelNumber": "CHPF2430B6",
+            "price": "260.00"
+        },
+        {
+            "modelNumber": "CHPF3636B6",
+            "price": "265.00"
+        },
+        {
+            "modelNumber": "CHPF3642C6",
+            "price": "295.00"
+        },
+        {
+            "modelNumber": "CHPF3642D6",
+            "price": "330.00"
+        },
+        {
+            "modelNumber": "CHPF3743C6",
+            "price": "318.00"
+        },
+        {
+            "modelNumber": "CHPF3743D6",
+            "price": "350.00"
+        },
+        {
+            "modelNumber": "CHPF4860D6",
+            "price": "372.00"
+        },
+        {
+            "modelNumber": "CSCF1824N6",
+            "price": "228.00"
+        },
+        {
+            "modelNumber": "CSCF3036N6",
+            "price": "282.00"
+        },
+        {
+            "modelNumber": "CSCF3642N6",
+            "price": "321.00"
+        },
+        {
+            "modelNumber": "CSCF4860N6",
+            "price": "399.00"
+        },
+        {
+            "modelNumber": "CAUF1824A6",
+            "price": "177.00"
+        },
+        {
+            "modelNumber": "CAUF1824B6",
+            "price": "180.00"
+        },
+        {
+            "modelNumber": "CAUF1824C6",
+            "price": "196.00"
+        },
+        {
+            "modelNumber": "CAUF3030A6",
+            "price": "212.00"
+        },
+        {
+            "modelNumber": "CAUF3030B6",
+            "price": "215.00"
+        },
+        {
+            "modelNumber": "CAUF3030C6",
+            "price": "231.00"
+        },
+        {
+            "modelNumber": "CAUF3030D6",
+            "price": "225.00"
+        },
+        {
+            "modelNumber": "CAUF3131B6",
+            "price": "215.00"
+        },
+        {
+            "modelNumber": "CAUF3131C6",
+            "price": "236.00"
+        },
+        {
+            "modelNumber": "CAUF3137B6",
+            "price": "338.00"
+        },
+        {
+            "modelNumber": "CAUF3636A6",
+            "price": "244.00"
+        },
+        {
+            "modelNumber": "CAUF3636B6",
+            "price": "246.00"
+        },
+        {
+            "modelNumber": "CAUF3636C6",
+            "price": "262.00"
+        },
+        {
+            "modelNumber": "CAUF3636D6",
+            "price": "305.00"
+        },
+        {
+            "modelNumber": "CAUF3642C6",
+            "price": "311.00"
+        },
+        {
+            "modelNumber": "CAUF3642D6",
+            "price": "318.00"
+        },
+        {
+            "modelNumber": "CAUF3743C6",
+            "price": "342.00"
+        },
+        {
+            "modelNumber": "CAUF3743D6",
+            "price": "354.00"
+        },
+        {
+            "modelNumber": "CAUF4860C6",
+            "price": "379.00"
+        },
+        {
+            "modelNumber": "CAUF4860D6",
+            "price": "364.00"
+        },
+        {
+            "modelNumber": "CAUF4961C6",
+            "price": "422.00"
+        },
+        {
+            "modelNumber": "CAUF4961D6",
+            "price": "411.00"
+        },
+        {
+            "modelNumber": "CAPEA1818B4",
+            "price": "406.00"
+        },
+        {
+            "modelNumber": "CAPEA1818C4",
+            "price": "419.00"
+        },
+        {
+            "modelNumber": "CAPEA2422B4",
+            "price": "452.00"
+        },
+        {
+            "modelNumber": "CAPEA2422C4",
+            "price": "462.00"
+        },
+        {
+            "modelNumber": "CAPEA3026B4",
+            "price": "488.00"
+        },
+        {
+            "modelNumber": "CAPEA3026C4",
+            "price": "492.00"
+        },
+        {
+            "modelNumber": "CAPEA3026D4",
+            "price": "497.00"
+        },
+        {
+            "modelNumber": "CAPE4860C4",
+            "price": "514.00"
+        },
+        {
+            "modelNumber": "CAPE4860D4",
+            "price": "527.00"
+        },
+        {
+            "modelNumber": "CAPE4961C4",
+            "price": "557.00"
+        },
+        {
+            "modelNumber": "CAPE4961D4",
+            "price": "564.00"
+        },
+        {
+            "modelNumber": "CHPE2430B4",
+            "price": "370.00"
+        },
+        {
+            "modelNumber": "CHPE3636B4",
+            "price": "375.00"
+        },
+        {
+            "modelNumber": "CHPE3642C4",
+            "price": "403.00"
+        },
+        {
+            "modelNumber": "CHPE3743C4",
+            "price": "425.00"
+        },
+        {
+            "modelNumber": "CHPE3743D4",
+            "price": "455.00"
+        },
+        {
+            "modelNumber": "CHPE4860D4",
+            "price": "476.00"
+        },
+        {
+            "modelNumber": "GPG1624060M41",
+            "price": "2831.00"
+        },
+        {
+            "modelNumber": "GPG1630080M41",
+            "price": "3053.00"
+        },
+        {
+            "modelNumber": "GPG1636080M41",
+            "price": "3225.00"
+        },
+        {
+            "modelNumber": "GPG1642100M41",
+            "price": "3503.00"
+        },
+        {
+            "modelNumber": "GPG1648100M41",
+            "price": "3740.00"
+        },
+        {
+            "modelNumber": "GPG1660140M41",
+            "price": "4476.00"
+        },
+        {
+            "modelNumber": "GPG1424040M41",
+            "price": "2035.00"
+        },
+        {
+            "modelNumber": "GPG1424060M41",
+            "price": "2047.00"
+        },
+        {
+            "modelNumber": "GPG1430040M41",
+            "price": "2163.00"
+        },
+        {
+            "modelNumber": "GPG1430060M41",
+            "price": "2176.00"
+        },
+        {
+            "modelNumber": "GPG1436040M41",
+            "price": "2192.00"
+        },
+        {
+            "modelNumber": "GPG1436060M41",
+            "price": "2248.00"
+        },
+        {
+            "modelNumber": "GPG1436080M41",
+            "price": "2271.00"
+        },
+        {
+            "modelNumber": "GPG1442060M41",
+            "price": "2449.00"
+        },
+        {
+            "modelNumber": "GPG1442080M41",
+            "price": "2463.00"
+        },
+        {
+            "modelNumber": "GPG1448060M41",
+            "price": "2876.00"
+        },
+        {
+            "modelNumber": "GPG1448080M41",
+            "price": "2940.00"
+        },
+        {
+            "modelNumber": "GPG1448100M41",
+            "price": "3060.00"
+        },
+        {
+            "modelNumber": "GPG1460080M41",
+            "price": "2769.00"
+        },
+        {
+            "modelNumber": "GPG1460100M41",
+            "price": "2832.00"
+        },
+        {
+            "modelNumber": "GPG1461080M41",
+            "price": "3184.00"
+        },
+        {
+            "modelNumber": "GPG1461100M41",
+            "price": "3257.00"
+        },
+        {
+            "modelNumber": "GPG1461120M41",
+            "price": "3274.00"
+        },
+        {
+            "modelNumber": "GPH1624M41",
+            "price": "2722.00"
+        },
+        {
+            "modelNumber": "GPH1630M41",
+            "price": "2819.00"
+        },
+        {
+            "modelNumber": "GPH1636M41",
+            "price": "2983.00"
+        },
+        {
+            "modelNumber": "GPH1642M41",
+            "price": "3223.00"
+        },
+        {
+            "modelNumber": "GPH1648M41",
+            "price": "3504.00"
+        },
+        {
+            "modelNumber": "GPH1660M41",
+            "price": "4255.00"
+        },
+        {
+            "modelNumber": "GPH1624H41",
+            "price": "2604.00"
+        },
+        {
+            "modelNumber": "GPH1630H41",
+            "price": "2705.00"
+        },
+        {
+            "modelNumber": "GPH1636H41",
+            "price": "2943.00"
+        },
+        {
+            "modelNumber": "GPH1642H41",
+            "price": "3072.00"
+        },
+        {
+            "modelNumber": "GPH1648H41",
+            "price": "3474.00"
+        },
+        {
+            "modelNumber": "GPH1660H41",
+            "price": "3676.00"
+        },
+        {
+            "modelNumber": "GPH1424M41",
+            "price": "2024.00"
+        },
+        {
+            "modelNumber": "GPH1430M41",
+            "price": "2095.00"
+        },
+        {
+            "modelNumber": "GPH1436M41",
+            "price": "2214.00"
+        },
+        {
+            "modelNumber": "GPH1442M41",
+            "price": "2347.00"
+        },
+        {
+            "modelNumber": "GPH1448M41",
+            "price": "2602.00"
+        },
+        {
+            "modelNumber": "GPH1460M41",
+            "price": "2904.00"
+        },
+        {
+            "modelNumber": "GPH1424H41",
+            "price": "1996.00"
+        },
+        {
+            "modelNumber": "GPH1430H41",
+            "price": "2073.00"
+        },
+        {
+            "modelNumber": "GPH1436H41",
+            "price": "2256.00"
+        },
+        {
+            "modelNumber": "GPH1442H41",
+            "price": "2356.00"
+        },
+        {
+            "modelNumber": "GPH1448H41",
+            "price": "2662.00"
+        },
+        {
+            "modelNumber": "GPH1460H41",
+            "price": "2823.00"
+        },
+        {
+            "modelNumber": "GPD1424060M41",
+            "price": "2644.00"
+        },
+        {
+            "modelNumber": "GPD1430080M41",
+            "price": "2732.00"
+        },
+        {
+            "modelNumber": "GPD1436080M41",
+            "price": "2950.00"
+        },
+        {
+            "modelNumber": "GPD1442100M41",
+            "price": "3139.00"
+        },
+        {
+            "modelNumber": "GPD1448100M41",
+            "price": "3333.00"
+        },
+        {
+            "modelNumber": "GPC1524M41",
+            "price": "2263.00"
+        },
+        {
+            "modelNumber": "GPC1530M41",
+            "price": "2406.00"
+        },
+        {
+            "modelNumber": "GPC1536M41",
+            "price": "2525.00"
+        },
+        {
+            "modelNumber": "GPC1542M41",
+            "price": "2869.00"
+        },
+        {
+            "modelNumber": "GPC1548M41",
+            "price": "2969.00"
+        },
+        {
+            "modelNumber": "GPC1524H41",
+            "price": "2030.00"
+        },
+        {
+            "modelNumber": "GPC1530H41",
+            "price": "2066.00"
+        },
+        {
+            "modelNumber": "GPC1536H41",
+            "price": "2090.00"
+        },
+        {
+            "modelNumber": "GPC1542H41",
+            "price": "2382.00"
+        },
+        {
+            "modelNumber": "GPC1548H41",
+            "price": "2526.00"
+        },
+        {
+            "modelNumber": "GPC1560H41",
+            "price": "2965.00"
+        },
+        {
+            "modelNumber": "GPC1424M41",
+            "price": "1924.00"
+        },
+        {
+            "modelNumber": "GPC1430M41",
+            "price": "2009.00"
+        },
+        {
+            "modelNumber": "GPC1436M41",
+            "price": "2091.00"
+        },
+        {
+            "modelNumber": "GPC1442M41",
+            "price": "2441.00"
+        },
+        {
+            "modelNumber": "GPC1448M41",
+            "price": "2541.00"
+        },
+        {
+            "modelNumber": "GPC1460M41",
+            "price": "2840.00"
+        },
+        {
+            "modelNumber": "GPC1424H41",
+            "price": "1782.00"
+        },
+        {
+            "modelNumber": "GPC1430H41",
+            "price": "1813.00"
+        },
+        {
+            "modelNumber": "GPC1436H41",
+            "price": "1832.00"
+        },
+        {
+            "modelNumber": "GPC1442H41",
+            "price": "2090.00"
+        },
+        {
+            "modelNumber": "GPC1448H41",
+            "price": "2215.00"
+        },
+        {
+            "modelNumber": "GPC1460H41",
+            "price": "2601.00"
+        }
+    ]
+}
