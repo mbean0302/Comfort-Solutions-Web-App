@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="063440af-ad34-49ec-8d26-476cc2bf777e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/amana.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsLandingPages/amana.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bard.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsLandingPages/bard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean-comfort.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsLandingPages/clean-comfort.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daiken.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsLandingPages/daiken.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodman.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsLandingPages/goodman.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lennox.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsLandingPages/lennox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nest.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsLandingPages/nest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view_products.html" beforeDir="false" afterPath="$PROJECT_DIR$/view_products.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +114,7 @@
       <workItem from="1581399841589" duration="76000" />
       <workItem from="1581471501962" duration="2516000" />
       <workItem from="1582603846687" duration="327000" />
-      <workItem from="1583114008500" duration="9247000" />
+      <workItem from="1583114008500" duration="9452000" />
     </task>
     <task id="LOCAL-00001" summary="removed test snippets">
       <created>1581472452004</created>
@@ -261,10 +254,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="982" y="316" key="com.intellij.javaee.MapExternalResourceDialog/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1580603119967" />
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583125586882">
+    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583125815342">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583125586882" />
+    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583125815342" />
     <state x="295" y="334" key="run.anything.popup" timestamp="1581384651001">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
