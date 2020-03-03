@@ -2,9 +2,9 @@
   "short_name": "CS_App",
   "name": "Comfort Solutions Web Application",
   "icons": [{
-    "src": "img/CS_LogoFinal18-1.png",
+    "src": "img/CS_LogoFinal18-1-web-manifest.png",
     "type": "image/png",
-    "sizes": "192x192"
+    "sizes": "69x34"
   }],
   "start_url": "/?utm_source=homescreen",
   "background_color": "#fafafa",

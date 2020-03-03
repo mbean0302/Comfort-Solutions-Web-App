@@ -157,8 +157,33 @@ button, a, a.btn {
   text-decoration-line: none;
 }
 
-  /* Overall Styling */
+/* Overall Styling */
 body {
   background-color: #283149;
   font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.specGroup:first-child {
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+}
+
+.specGroup:last-child {
+  border-bottom-right-radius: .25rem;
+  border-bottom-left-radius: .25rem;
+}
+
+.specGroup {
+  background-color: #c33c33 !important;
+  color: black !important;
+  font-weight: bold;
+  margin: .25rem;
+  border-radius: .25rem;
+}
+
+.specGroup:hover,
+.specGroup:focus {
+  background-color: #1579c4 !important;
+  color: black !important;
+  font-weight: bold;
 }
