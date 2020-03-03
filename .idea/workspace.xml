@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="063440af-ad34-49ec-8d26-476cc2bf777e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/CS_LogoFinal18-1-web-manifest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/airConditioners/asx13-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/airConditioners/asx16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tierVectors/bronze.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tierVectors/gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tierVectors/platinum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tierVectors/silver.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/asx13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/asx14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/asx16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/asxc16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/asxc18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/avxc20.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productsLandingPages/amana-ac.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Mark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Mark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/dashboardNavbarAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/dashboardNavbarAndFooter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/carouselScript.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/productsLandingPages/amana.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsLandingPages/amana.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/asxc16.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/asxc16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/asxc18.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/asxc18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/avxc20.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/avxc20.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +121,7 @@
       <workItem from="1581399841589" duration="76000" />
       <workItem from="1581471501962" duration="2516000" />
       <workItem from="1582603846687" duration="327000" />
-      <workItem from="1583114008500" duration="19874000" />
+      <workItem from="1583114008500" duration="21095000" />
     </task>
     <task id="LOCAL-00001" summary="removed test snippets">
       <created>1581472452004</created>
@@ -162,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583125844631</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added content to amana ac products.&#10;&#10;ongoing changes to initial application">
+      <created>1583209042586</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583209042586</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +162,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="removed test snippets" />
     <MESSAGE value="altered css product styles / drop-down-items" />
-    <option name="LAST_COMMIT_MESSAGE" value="altered css product styles / drop-down-items" />
+    <MESSAGE value="added content to amana ac products.&#10;&#10;ongoing changes to initial application" />
+    <option name="LAST_COMMIT_MESSAGE" value="added content to amana ac products.&#10;&#10;ongoing changes to initial application" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -195,10 +185,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1036" y="555" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1580768126354" />
-    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2" timestamp="1583125844245">
+    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2" timestamp="1583209041923">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583125844245" />
+    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583209041923" />
     <state width="418" height="646" key="DebuggerActiveHint" timestamp="1580911860395">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -275,10 +265,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="782" y="344" key="SettingsEditor/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1581389282883" />
-    <state x="873" y="430" key="Vcs.Push.Dialog.v2" timestamp="1583125848061">
+    <state x="873" y="430" key="Vcs.Push.Dialog.v2" timestamp="1583209047681">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="430" key="Vcs.Push.Dialog.v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583125848061" />
+    <state x="873" y="430" key="Vcs.Push.Dialog.v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583209047681" />
     <state x="93" y="93" width="2375" height="1215" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581386733387">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -287,10 +277,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="982" y="316" key="com.intellij.javaee.MapExternalResourceDialog/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1580603119967" />
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583208998255">
+    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583210248172">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583208998255" />
+    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583210248172" />
     <state x="295" y="334" key="run.anything.popup" timestamp="1581384651001">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
