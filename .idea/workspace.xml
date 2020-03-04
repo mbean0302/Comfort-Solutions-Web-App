@@ -5,17 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="063440af-ad34-49ec-8d26-476cc2bf777e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/individualProducts/asz14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/asz16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/aszc16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/aszc18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/avzc18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/avzc20.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productsLandingPages/amana-hp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gasFurnaces/amana-80-gf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gasFurnaces/amana-90-gf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gasFurnaces/lifetime-hx-warranty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individualProducts/amec80.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individualProducts/amec96.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individualProducts/ames80.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individualProducts/ames92.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individualProducts/ames96.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individualProducts/amvc8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individualProducts/amvc80.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individualProducts/amvc96.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individualProducts/amvm97.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productsLandingPages/amana-gf-80.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productsLandingPages/amana-gf-90.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productsLandingPages/amana-gf.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Mark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Mark.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/productsLandingPages/amana-ac.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsLandingPages/amana-ac.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/productsLandingPages/amana.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsLandingPages/amana.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +77,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/individualProducts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/gasFurnaces" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -91,11 +97,11 @@
       <recent name="C:\Users\Mark\WebstormProjects\Comfort Solutions WebApp\css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mark\Desktop\Comfort-Solutions-Web-App\img\gasFurnaces" />
       <recent name="C:\Users\Mark\Desktop\Comfort-Solutions-Web-App\individualProducts" />
       <recent name="C:\Users\Mark\Desktop\Comfort-Solutions-Web-App\productsLandingPages" />
       <recent name="C:\Users\Mark\Desktop\Comfort-Solutions-Web-App\img\airConditioners" />
       <recent name="C:\Users\Mark\Desktop\Comfort-Solutions-Web-App\img\tierVectors" />
-      <recent name="C:\Users\Mark\Desktop\Comfort-Solutions-Web-App\img\typeVectors" />
     </key>
   </component>
   <component name="RunManager">
@@ -128,7 +134,7 @@
       <workItem from="1581399841589" duration="76000" />
       <workItem from="1581471501962" duration="2516000" />
       <workItem from="1582603846687" duration="327000" />
-      <workItem from="1583114008500" duration="24398000" />
+      <workItem from="1583114008500" duration="31075000" />
     </task>
     <task id="LOCAL-00001" summary="removed test snippets">
       <created>1581472452004</created>
@@ -165,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583210266060</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="all amana hp products completed">
+      <created>1583286963722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583286963722</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +191,8 @@
     <MESSAGE value="altered css product styles / drop-down-items" />
     <MESSAGE value="added content to amana ac products.&#10;&#10;ongoing changes to initial application" />
     <MESSAGE value="minor revision to previous push" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor revision to previous push" />
+    <MESSAGE value="all amana hp products completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="all amana hp products completed" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -200,10 +214,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1036" y="555" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1580768126354" />
-    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2" timestamp="1583210265674">
+    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2" timestamp="1583286963278">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583210265674" />
+    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583286963278" />
     <state width="418" height="646" key="DebuggerActiveHint" timestamp="1580911860395">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -280,10 +294,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="782" y="344" key="SettingsEditor/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1581389282883" />
-    <state x="873" y="430" key="Vcs.Push.Dialog.v2" timestamp="1583210269672">
+    <state x="873" y="430" key="Vcs.Push.Dialog.v2" timestamp="1583286967953">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="430" key="Vcs.Push.Dialog.v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583210269672" />
+    <state x="873" y="430" key="Vcs.Push.Dialog.v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583286967953" />
     <state x="93" y="93" width="2375" height="1215" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581386733387">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -292,10 +306,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="982" y="316" key="com.intellij.javaee.MapExternalResourceDialog/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1580603119967" />
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583286939220">
+    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583293665935">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583286939220" />
+    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583293665935" />
     <state x="295" y="334" key="run.anything.popup" timestamp="1581384651001">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
