@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="063440af-ad34-49ec-8d26-476cc2bf777e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/gasFurnaces/amana-80-gf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gasFurnaces/amana-90-gf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gasFurnaces/lifetime-hx-warranty.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/amec80.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/amec96.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/ames80.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/ames92.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/ames96.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/amvc8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/amvc80.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/amvc96.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individualProducts/amvm97.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productsLandingPages/amana-gf-80.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productsLandingPages/amana-gf-90.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productsLandingPages/amana-gf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Mark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Mark.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/amec80.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/amec80.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/amvc8.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/amvc8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/amvc80.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/amvc80.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +121,7 @@
       <workItem from="1581399841589" duration="76000" />
       <workItem from="1581471501962" duration="2516000" />
       <workItem from="1582603846687" duration="327000" />
-      <workItem from="1583114008500" duration="31075000" />
+      <workItem from="1583114008500" duration="31736000" />
     </task>
     <task id="LOCAL-00001" summary="removed test snippets">
       <created>1581472452004</created>
@@ -178,11 +165,28 @@
       <option name="project" value="LOCAL" />
       <updated>1583286963722</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="all amana gf products completed">
+      <created>1583293682075</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583293682075</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
@@ -192,7 +196,8 @@
     <MESSAGE value="added content to amana ac products.&#10;&#10;ongoing changes to initial application" />
     <MESSAGE value="minor revision to previous push" />
     <MESSAGE value="all amana hp products completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="all amana hp products completed" />
+    <MESSAGE value="all amana gf products completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="all amana gf products completed" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -214,10 +219,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1036" y="555" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1580768126354" />
-    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2" timestamp="1583286963278">
+    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2" timestamp="1583293693682">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583286963278" />
+    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583293693682" />
     <state width="418" height="646" key="DebuggerActiveHint" timestamp="1580911860395">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -306,10 +311,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="982" y="316" key="com.intellij.javaee.MapExternalResourceDialog/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1580603119967" />
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583293665935">
+    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583294357938">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583293665935" />
+    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583294357938" />
     <state x="295" y="334" key="run.anything.popup" timestamp="1581384651001">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
