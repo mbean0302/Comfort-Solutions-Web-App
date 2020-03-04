@@ -7,8 +7,26 @@
     <list default="true" id="063440af-ad34-49ec-8d26-476cc2bf777e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/individualProducts/amec80.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/amec80.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/amec96.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/amec96.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/ames80.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/ames80.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/ames92.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/ames92.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/ames96.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/ames96.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/individualProducts/amvc8.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/amvc8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/individualProducts/amvc80.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/amvc80.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/amvc96.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/amvc96.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/amvm97.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/amvm97.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/asx13.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/asx13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/asx14.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/asx14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/asx16.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/asx16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/asxc16.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/asxc16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/asxc18.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/asxc18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/asz14.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/asz14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/asz16.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/asz16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/aszc16.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/aszc16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/aszc18.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/aszc18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/avxc20.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/avxc20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/avzc18.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/avzc18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individualProducts/avzc20.html" beforeDir="false" afterPath="$PROJECT_DIR$/individualProducts/avzc20.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +139,7 @@
       <workItem from="1581399841589" duration="76000" />
       <workItem from="1581471501962" duration="2516000" />
       <workItem from="1582603846687" duration="327000" />
-      <workItem from="1583114008500" duration="31736000" />
+      <workItem from="1583114008500" duration="32246000" />
     </task>
     <task id="LOCAL-00001" summary="removed test snippets">
       <created>1581472452004</created>
@@ -172,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583293682075</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="all amana gf products completed">
+      <created>1583294363383</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583294363383</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,10 +244,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1036" y="555" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1580768126354" />
-    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2" timestamp="1583293693682">
+    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2" timestamp="1583294362990">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583293693682" />
+    <state x="903" y="209" width="937" height="982" key="CommitChangelistDialog2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583294362990" />
     <state width="418" height="646" key="DebuggerActiveHint" timestamp="1580911860395">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -311,10 +336,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="982" y="316" key="com.intellij.javaee.MapExternalResourceDialog/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1580603119967" />
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583294357938">
+    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583294968745">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583294357938" />
+    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.454.1920.1040@0.0.2560.1400" timestamp="1583294968745" />
     <state x="295" y="334" key="run.anything.popup" timestamp="1581384651001">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
